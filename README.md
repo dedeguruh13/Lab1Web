@@ -66,7 +66,7 @@ Menyusun halaman Profil Mahasiswa dari seluruh elemen yang sudah dipelajari.
 ### 10. Validasi HTML
 Memeriksa struktur HTML di https://validator.w3.org.
 
-![Validator](screenshots/10-validator.png)
+![Validator](screenshots/10-checker.png)
 
 ---
 
